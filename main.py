@@ -7,3 +7,6 @@ def bye():
 hi()
 bye()
 # random comment
+
+def cheer():
+  print("YAY!")

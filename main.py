@@ -6,3 +6,6 @@ def bye():
   
 hi()
 bye()
+
+def bark():
+  print("arf! arf!")
